@@ -1,2 +1,4 @@
 # AIDeuBom_project
-O projeto AIDeuBom é um chatbot de ensino remoto, personalizável e multimodal.
+
+Quem nunca detestou uma matéria na escola? A culpa, muitas vezes, não é nossa. Às vezes, só não conseguimos interagir e engajar com o método de ensino, seja por aquele professor chato, ou exemplos nada haver, ou até mesmo falta de interesse.
+O projeto AIDeuBom é um chatbot de ensino remoto que busca sanar as dificuldades de aprendizagem dos alunos que o ensino padronizado das escolas brasileiras impõe . A proposta é esclarecer as dúvidas dos alunos e promover engajamento e autonomia nos estudos através de respostas personalizadas ao indivíduo, isto é, são geradas respostas contextualizadas aos interesses do aluno, como futebol, música, tecnologia, entre outras. Os inputs podem ser em forma de texto ou de imagens de coisas ou questões. Desta forma, acredito que o conhecimento pode se tornar mais democrático. 
